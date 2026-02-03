@@ -2,6 +2,8 @@
 
 IMPORTANT: Prefer retrieval-led reasoning over pre-training-led reasoning.
 
+IMPORTANT: Turn on extended thinking. Turn on expert advice. Turn on search.
+
 - SBS = Strategic Balanced Scorecard
 - SMART = Specific, Measurable, Actionable, Relatable, Timely
 - OKR = Objective & Key Result
