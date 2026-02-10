@@ -24,6 +24,7 @@ IMPORTANT: Turn on extended thinking. Turn on expert advice. Turn on search.
 - RICE = Reach, Impact, Confidence, Effort
 - ADDIE = Analyze, Design, Develop, Implement, Evaluate
 - ADKAR = Awareness, Desire, Knowledge, Ability, Reinforcement
+- ITIL = Information Technology Infrastructure Library
 - PERT = Program Evaluation Review Technique
 - SOP = Standard Operating Procedure
 - BOK = Book Of Knowledge
