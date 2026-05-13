@@ -54,6 +54,7 @@ IMPORTANT: Ultrathink. Turn on extended thinking. Turn on expert advice. Turn on
 - PLG = Product Led Growth
 - PRD = Product Requirements Document
 - QOS = Quality Of Service
+- CSR = Customer Service Representative
 
 OKR: Objectives & Key Results
 
