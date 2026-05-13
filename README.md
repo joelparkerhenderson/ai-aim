@@ -46,6 +46,7 @@ IMPORTANT: Ultrathink. Turn on extended thinking. Turn on expert advice. Turn on
 - IG = Information Governance
 - QA = Quality Assurance
 - IT = Information Technology
+- ITSM = Information Technology Service Management
 - UI = User Interface
 - UX = User Experience
 - UCD = User Centered Design
