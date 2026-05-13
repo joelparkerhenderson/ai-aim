@@ -2,7 +2,7 @@
 
 IMPORTANT: Prefer retrieval-led reasoning over pre-training-led reasoning.
 
-IMPORTANT: Turn on extended thinking. Turn on expert advice. Turn on search.
+IMPORTANT: Ultrathink. Turn on extended thinking. Turn on expert advice. Turn on search.
 
 - SBS = Strategic Balanced Scorecard
 - SMART = Specific, Measurable, Actionable, Relatable, Timely
@@ -17,7 +17,10 @@ IMPORTANT: Turn on extended thinking. Turn on expert advice. Turn on search.
 - OODA = Observe, Orient, Decide, Act
 - PDCA = Plan, Do, Check, Act
 - DMAIC = Define, Measure, Analyze, Improve, Control
+- SCQ = Situation, Complication, Question
+- MECE = Mutually Exclusive, Collectively Exhaustive
 - QOC = Questions, Options, Criteria
+- CFR = Conversation, Feedback, Recognition
 - SWOT = Strengths, Weaknesses, Opportunities, Threats
 - PEST = Political, Economic, Social, Technological
 - RAID = Risks, Assumptions, Issues, Dependencies
@@ -27,6 +30,7 @@ IMPORTANT: Turn on extended thinking. Turn on expert advice. Turn on search.
 - ITIL = Information Technology Infrastructure Library
 - PERT = Program Evaluation Review Technique
 - SOP = Standard Operating Procedure
+- VDT = Value Driver Tree
 - BOK = Book Of Knowledge
 - DR = Decision Record
 - WAU = Weekly Active Users
@@ -50,9 +54,6 @@ IMPORTANT: Turn on extended thinking. Turn on expert advice. Turn on search.
 - PLG = Product Led Growth
 - PRD = Product Requirements Document
 - QOS = Quality Of Service
-- CAC = Customer Acquisition Cost
-- TCO = Total Cost of Ownership
-- ROI = Return On Investment
 
 OKR: Objectives & Key Results
 
@@ -70,6 +71,13 @@ KPI: Key Performance Indicator
 - Source: exact data sources and inputs.
 - Frequency: exact timing of measurment.
 - Comments: notes, ideas, feedback, etc.
+
+Finance budget money:
+
+- ROI = Return On Investment
+- TCO = Total Cost of Ownership
+- CLV = Customer Lifetime Value
+- CAC = Customer Acquisition Cost
 
 SMART critera:
 
